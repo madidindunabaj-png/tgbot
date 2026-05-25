@@ -1,5 +1,6 @@
 aiogram==3.13.0
 deep-translator
-easyocr
 pillow
 requests
+easyocr==1.7.2
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
