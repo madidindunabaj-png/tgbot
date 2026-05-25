@@ -2,7 +2,3 @@ aiogram==3.13.0
 deep-translator
 pillow
 requests
-easyocr==1.7.2
-torch
-torchvision
-torchaudio
